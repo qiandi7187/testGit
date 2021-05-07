@@ -17,4 +17,10 @@ test7 on dev
 
 test8 on dev
 
+<<<<<<< HEAD
 bug issue 010s
+=======
+test9 on dev before bug fix
+
+test rebase
+>>>>>>> dev
